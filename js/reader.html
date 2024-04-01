@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Markdown Reader</title>
+<style>
+  #container {
+    display: none; /* Initially hide the container */
+  }
+</style>
+</head>
+<body>
+
+<div id="container"></div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const container = document.getElementById('container');
+  let markdownText = ""; // Store markdown text here
+
+  // Function to read markdown file
+  function readMarkdownFile() {
+    // You need to implement this function to read the markdown file and store the text in the markdownText variable
+    // For simplicity, I'll just assign some example text here
+    markdownText = "This is the first sentence. This is the second sentence. This is the third sentence.";
+  }
+
+  // Function to reveal text one character at a time
+  function revealText(text) {
+    let index = 0;
+    const intervalId = setInterval(function() {
+      if (index < text.length) {
+        container.textContent += text[index];
+        index++;
+      } else {
+        clearInterval(intervalId);
+      }
+    }, 100); // Adjust the interval for your desired pace
+  }
+
+  // Function to handle click event
+  function handleClick() {
+    if (markdownText) {
+      revealText(markdownText);
+    }
+  }
+
+  // Event listener for click event
+  document.addEventListener('click', handleClick);
+
+  // Read the markdown file when the DOM content is loaded
+  readMarkdownFile();
+});
+</script>
+
+</body>
+</html>

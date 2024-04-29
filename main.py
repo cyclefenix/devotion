@@ -31,15 +31,17 @@ def render_page(md=None):
 pages = {
     "Main" : main_page,
     "Daily Office" : render_page,
+    "Jonah" : render_page,
     "Psalm" : render_page,
-    "Hello world" : hello_page,
+    # "Hello world" : hello_page,
 }
 
 md_loader = {
     "Main" : None,
     "Daily Office" : "assets/dailyoffice.md",
+    "Jonah" : "assets/jonah.md", 
     "Psalm" : "assets/psalm.md",
-    "Hello world" : None,
+    # "Hello world" : None,
 }
 
 selected_page = st.sidebar.radio("Navigation", list(pages.keys()))

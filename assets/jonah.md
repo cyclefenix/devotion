@@ -10,7 +10,7 @@
 > 3 But Jonah rose to flee to Tarshish from the presence of the Lord. He went down to Joppa and found a ship going to Tarshish. So he paid the fare and went down into it, to go with them to Tarshish, away from the presence of the Lord.
 
 ### Observations:
-verse 1
+***Verse 1***
 1. First word of the book is "Now"
 2. The setting time and place is "Now", current context of the story
 3. Two people in the story, the Lord and Jonah
@@ -22,8 +22,9 @@ verse 1
 9. God spoke to Jonah in a language that he understands
 10. God's name is "the Lord"
 11. Next verse will spell out what the word of the Lord said.
-12. Word is not capitalized, lower case "word"
-verse 2
+12. Word is not capitalized, lower case "word"  
+
+***Verse 2***
 1. "word of the Lord" has three parts
 2. All three parts are commands
 3. All commands are actions for the hearer, Jonah
@@ -36,7 +37,9 @@ verse 2
 10. Nineveh, according to God, is doing evil
 11. Nineveh's evil can come up to God
 12. Nineveh the city is great
-13. 
+13. Nineveh is the capital of Assyria
+14. Population of Nineveh is Assyrians
+15. Jonah is Hebrew.  God is the god of the Hebrews.  Jonah instructed to go to a non-Israelite nation.
 
 ## Jonah 1 v4-6
 

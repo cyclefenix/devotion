@@ -41,8 +41,18 @@
 14. Population of Nineveh is Assyrians
 15. Jonah is Hebrew.  God is the god of the Hebrews.  Jonah instructed to go to a non-Israelite nation.
 
+***Verse 3***
+1. Jonah rose, following the word of the Lord's 'arise' instruction
+2. Jonah flees, opposite of the Lord's commandment
+3. Jonah goes to Tarshish, where is this?
+4. Jonah flees from the presence of the Lord.
+5. He goes down
+6. He goes to Joppa, where is this?
+7. He gets on a ship
+8. Again, he goes away from the presence of the Lord
+
 ## Jonah 1 v4-6
 
-> 4 But the Lord hurled a great wind upon the sea, and there was a mighty tempest on the sea, so that the ship threatened to break up. 
-> 5 Then the mariners were afraid, and each cried out to his god. And they hurled the cargo that was in the ship into the sea to lighten it for them. But Jonah had gone down into the inner part of the ship and had lain down and was fast asleep. 
-> 6 So the captain came and said to him, "What do you mean, you sleeper? Arise, call out to your god! Perhaps the god will give a thought to us, that we may not perish."
+> 4 But the Lord hurled a great wind upon the sea, and there was a mighty tempest on the sea, so that the ship threatened to break up.  
+> 5 Then the mariners were afraid, and each cried out to his god. And they hurled the cargo that was in the ship into the sea to lighten it for them. But Jonah had gone down into the inner part of the ship and had lain down and was fast asleep.  
+> 6 So the captain came and said to him, "What do you mean, you sleeper? Arise, call out to your god! Perhaps the god will give a thought to us, that we may not perish."  

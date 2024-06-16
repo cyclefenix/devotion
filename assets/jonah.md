@@ -1,7 +1,31 @@
 # Jonah
 
 ## Outline
-*In work* 
+V1-3: God's call and Jonah's Response
+V4-6: The Tempest and the Mariner's Ordeal
+V7-10: The Reveal, Jonah's identity becomes known, he is the source of the Mariner's problems
+V11-16: The Calm, Mariners reluctantly throw Jonah into the sea
+V17: The Fish, Jonah is swallowed up
+
+## Sermon
+Jonah Chapter 1 verse 1 to 3 shows God's call to Jonah, and Jonah rebellious responses to do opposite God's commandment.
+In verse 4 to 6, a tempest rages and causes big problems for the mariner's in Jonah's boat, while Jonah is sound asleep in the hull.
+Next section verse 7 to 10, Jonah reveals his full identity to the mariners and, it also becomes known he is the source of the mariners problems.
+Next section, Jonah offers a solution, to throw him into the sea.  Initially, the mariners do not, but try to save themselves and him, rowing the boat harder.
+However, this is to no avail.  The tempest is much stronger than the rowers.  So they reluctantly throw the prophet in to the sea.  
+Seeing the immediate calm of the storm, the mariners fear God greatly and worship. 
+
+The second half of Jonah chapter 1 shows a pitiful man who inadvertently witnesses and converts a boat full of sailors to worship and fear God.
+In first three verses of the first chapter, God calls Jonah, and rebellious Jonah runs away.
+The remaining verses shows to parallel stories, a pitiful rebellious prophet, and the conversion story of a boat full of mariners.
+First, God sends a tempest, so strong it threatens to break up the ship.
+The mariners start pleading to their gods, and hurling cargo.  
+The mariners believe the storm is coming from an angry god, and it is a spiritual problem.  
+
+They find Jonah, and cast lots.  It is reveal Jonah is the source of the problem.
+He proclaims he is a Hebrew and his God is the Lord God
+This is the mariners problem only, apparently.  Jonah is unfazed.  This is not his problem.  Taken a nice nap is his biggest concern.
+
 
 ## Jonah 1 v1-3
 
